@@ -1,13 +1,25 @@
-# *sh1mmer* KERNVER 1, CHROMEBOOK UNENROLLMENT
-
+# (idek what to put here.)
 > [!NOTE]
 > If you do not know *how to check your kernver* please go to, https://github.com/qors67/ditch-enrollment-v2/blob/main/tools.md
 
-Alright so as I was saying, *first, head over to Chrome://version* to check your Chromebook board name.
+# *sh1mmer* KERNVER 1, CHROMEBOOK UNENROLLMENT
 
-and then look for it on this screen:
+You'll need a USB thumb drive with at least 4GB of storage, some board have small or bigger images, so have a beef usb, I recommend 16gb
+and a personal computer with access to downloading extentions
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPza0pJJfngbwemxFoAuqhQ1kt-vZuLBZxZln8PmnhSw&amp;s=10" alt="3 simple ways to find your Chromebook board and brand name"/>
+1. Navigate to chrome://version on the you wish to unenroll and check for your board under "Platform" 
+(it's the text after stable-channel)  
 
+![fucking image, bitch](https://user-images.githubusercontent.com/88395302/212484378-65e6e6e3-b995-48a1-b229-3265a4993279.png)
 
-and then after that, head over to *https://dl.snerill.org/SH1mmer* or just head over to *https://github.com/crosbreaker/sh1mmer/releases/tag/legacy* if they don't have your board name.
+2. Navigate to https://dl.snerill.org/SH1mmer *or, https://github.com/crosbreaker/sh1mmer/releases/tag/legacy*, press `ctrl+f` and type in your board
+
+3. Find and download the it on your personal computer
+
+4. Install Chromebook Recovery Utility onto your personal computer (found at [this site](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en">https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en))
+
+5. Open the extension, and click on the Settings button in to top right hand corner, click "use local image"
+6. Select the image (*that you downloaded from either site*)
+7. Plug in the USB you wish to use, and follow the prompts on the screen
+8. On your chromebook, press esc+reload+power and follow the prompts
+9. On the checking for updates screen, press ctrl+shift+e to skip the "checking for updates" screen
