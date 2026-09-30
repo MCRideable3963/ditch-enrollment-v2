@@ -6,6 +6,7 @@
 > [!NOTE]
 > And also, one more thing, Your Chromebook unenrollment method, *varies* by your kernver (kernel version).
 
+> [!TIP]
 > To verify your kernver and your ChromeOS version, you need to first boot ChromeOS and then press `alt+v`, you will find a number
 > followed by other numbers, only the first 2 or 3 numbers matter, such as `94`, `110` or `127`. Take note of this number and find
 > the method related. If it is `120` or higher, you should check your kernver. Press `esc+⟳+⏻ ` (`esc+refresh+power`), and then `tab`.
