@@ -23,3 +23,6 @@ and a personal computer with access to downloading extentions
 7. Plug in the USB you wish to use, and follow the prompts on the screen
 8. On your chromebook, press esc+reload+power and follow the prompts
 9. On the checking for updates screen, press ctrl+shift+e to skip the "checking for updates" screen
+
+# UNFINISHED GUIDE!!!
+*i'm too lazy to add the rest of the unenrollment methods, so yeah, Srry 😭😭😭*
