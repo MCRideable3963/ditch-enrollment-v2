@@ -40,3 +40,5 @@ Then wait for it to download to your PC.
 # *Icarus* KERNVER 4, CHROMEBOOK UNENROLLMENT
 
 Icarus is a unenrollment exploit for kernver 4 Chromebooks, (meaning Chromebooks running kernver 4 firmware)
+
+UNFINISHED GUIDE!!! (only for unenroll.md)
