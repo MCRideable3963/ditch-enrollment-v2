@@ -1,6 +1,6 @@
 # (idek what to put here.)
 > [!NOTE]
-> If you do not know *how to check your kernver* please go to, https://github.com/qors67/ditch-enrollment-v2/blob/main/tools.md
+> If you do not know *how to check your kernver* please go to, https://github.com/MCRideable3963/ditch-enrollment-v2/blob/main/tools.md
 
 # *sh1mmer* KERNVER 1, CHROMEBOOK UNENROLLMENT
 
