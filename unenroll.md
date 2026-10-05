@@ -36,3 +36,7 @@ then upload the UNZIPPED!!! chromeOS recovery image, corresponding to your chrom
 Then wait for it to download to your PC.
 
 (esc+refresh+power) then ctrl+d, then press (esc+refresh+power) again, and then plug in the USB and wait for it to Unenroll.
+
+# *Icarus* KERNVER 4, CHROMEBOOK UNENROLLMENT
+
+Icarus is a unenrollment exploit for kernver 4 Chromebooks, (meaning Chromebooks running kernver 4 firmware)
