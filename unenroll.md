@@ -28,3 +28,11 @@ and a personal computer with access to downloading extentions
 
 INSTRUCTIONS ARE ON HERE:
 https://github.com/FWNavy/CryptoSmite/blob/main/cryptosmite.md
+
+# *BadRecovery* KERNVER 3, CHROMEBOOK UNENROLLMENT
+
+So first go to: https://binbashbanana.github.io/badrecovery/builder.html
+then upload the UNZIPPED!!! chromeOS recovery image, corresponding to your chromebook board name.
+Then wait for it to download to your PC.
+
+(esc+refresh+power) then ctrl+d, then press (esc+refresh+power) again, and then plug in the USB and wait for it to Unenroll.
