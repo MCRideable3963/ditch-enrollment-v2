@@ -24,5 +24,7 @@ and a personal computer with access to downloading extentions
 8. On your chromebook, press esc+reload+power and follow the prompts
 9. On the checking for updates screen, press ctrl+shift+e to skip the "checking for updates" screen
 
-# UNFINISHED GUIDE!!!
-*i'm too lazy to add the rest of the unenrollment methods, so yeah, Srry 😭😭😭*
+# *CryptoSmite* KERNVER 2, CHROMEBOOK UNENROLLMENT
+
+INSTRUCTIONS ARE ON HERE:
+https://github.com/FWNavy/CryptoSmite/blob/main/cryptosmite.md
