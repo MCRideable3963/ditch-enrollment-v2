@@ -21,3 +21,5 @@ initctl start trunksd
 initctl start tpm_managerd
 initctl status tpm2-simulator
 ```
+
+AND THEN, I THINK!!! (you boot into a UI and then select disable *WP*, (Write Protect)). Then Yeah, (that should be It).
